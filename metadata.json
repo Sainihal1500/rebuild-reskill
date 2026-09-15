@@ -1,0 +1,6 @@
+{
+  "name": "Rebuild & Re-Skill",
+  "description": "A Bridge to a Brighter Future. An AI-powered career recovery and reskilling platform.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
